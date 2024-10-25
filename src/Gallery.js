@@ -1,4 +1,5 @@
 import React from 'react'
+import "./gallery.css"
 
 import Img1 from './img/1.jpeg'
 import Img2 from './img/2.jpeg'
